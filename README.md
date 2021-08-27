@@ -1,8 +1,7 @@
 # hackathon
 
 webserver
-https://github.com/digvijayrajat/videoserver
-
+https://github.com/digvijayrajat/videoserver/tree/master
 
 Creator SDK
 https://gitlab.com/lokesh.kedia/creator
